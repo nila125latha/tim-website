@@ -91,4 +91,15 @@ p{
 #name{
     font-size: 50px;
     font-family: 'MonteCarlo', cursive;
+} 
+a{
+    text-decoration: none;
+    
+}
+.article:hover{
+    color: fuchsia;
+    
+}
+html{
+ scroll-behavior: smooth;
 }
